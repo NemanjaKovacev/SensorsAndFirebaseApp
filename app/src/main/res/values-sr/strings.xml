@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sensors and Firebase Application</string>
+    <string name="navigation_drawer_open">Otvori fioku navigacije</string>
+    <string name="navigation_drawer_close">Zatvori fioku navigacije</string>
+    <string name="bluetooth_on">Bluetooth je uključen</string>
+    <string name="bluetooth_off">Bluetooth je isključen</string>
+    <string name="contacts">Kontakti</string>
+    <string name="gps_settings">GPS podešavanja</string>
+    <string name="gps_not_on">GPS nije uključen. Otvoriti GPS podešavanja?</string>
+    <string name="settings">Podešavanja</string>
+    <string name="cancel">Otkaži</string>
+    <string name="bluetooth_status">Bluetooth status</string>
+    <string name="bluetooth_turn_on">Uključi Bluetooth</string>
+    <string name="bluetooth_turn_off">Isključi Bluetooth</string>
+    <string name="name">Ime i prezime</string>
+    <string name="email">Email</string>
+    <string name="show_current_coordinates">Prikaži trenutne koordinate</string>
+    <string name="my_name">Nemanja Kovačev</string>
+    <string name="latitude">Geografska širina: </string>
+    <string name="longitude">\nGeografska dužina: </string>
+    <string name="menu_add">Dodaj</string>
+    <string name="menu_save">Snimi</string>
+    <string name="menu_remove">Ukloni</string>
+    <string name="menu_camera">Kamera</string>
+    <string name="menu_gps">GPS</string>
+    <string name="menu_bluetooth">Bluetooth</string>
+    <string name="menu_firebase">Kontakti (Firebase)</string>
+</resources>

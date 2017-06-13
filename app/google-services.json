@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "170953714053",
+    "firebase_url": "https://sensorsandfirebaseapp.firebaseio.com",
+    "project_id": "sensorsandfirebaseapp",
+    "storage_bucket": "sensorsandfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170953714053:android:d356034f9b31b410",
+        "android_client_info": {
+          "package_name": "com.example.nemanja.sensorsandfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170953714053-rg6nfaics6go6uedehf1s5i2bvdsqfme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nemanja.sensorsandfirebaseapp",
+            "certificate_hash": "6d214df07a5feb8b5ef705740051c5bf9a9fb379"
+          }
+        },
+        {
+          "client_id": "170953714053-gbm3j7vbpgs769ulq9mn4tqa5tkg37kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_r2eYBepyKC-hLmStQeo50zrcjamuSmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170953714053-gbm3j7vbpgs769ulq9mn4tqa5tkg37kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

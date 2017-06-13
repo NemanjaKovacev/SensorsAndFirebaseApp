@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="GifUsage">
+        <ignore path="src/main/res/drawable/gps.gif" />
+        <ignore path="src/main/res/drawable/splash_screen.gif" />
+    </issue>
+    <issue id="IconExtension">
+        <ignore path="src/main/res/drawable/blue_robot.jpg" />
+    </issue>
+</lint>

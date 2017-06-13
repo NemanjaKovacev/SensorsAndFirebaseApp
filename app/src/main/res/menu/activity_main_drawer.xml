@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/kamera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_camera" />
+        <item
+            android:id="@+id/gps"
+            android:icon="@drawable/ic_gps"
+            android:title="@string/menu_gps" />
+        <item
+            android:id="@+id/bt"
+            android:icon="@drawable/ic_bluetooth"
+            android:title="@string/menu_bluetooth" />
+        <item
+            android:id="@+id/firebase"
+            android:icon="@drawable/ic_firebase"
+            android:title="@string/menu_firebase" />
+    </group>
+
+</menu>
