@@ -1,4 +1,4 @@
-package com.example.nemanja.sensorsandfirebaseapp.firebase;
+package com.example.nemanja.sensorsandfirebaseapp.adapters;
 
 import android.app.Activity;
 import android.content.Context;
@@ -9,10 +9,11 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.example.nemanja.sensorsandfirebaseapp.R;
+import com.example.nemanja.sensorsandfirebaseapp.models.FirebaseUser;
 
 import java.util.List;
 
-class FirebaseListViewAdapter extends BaseAdapter {
+public class FirebaseListViewAdapter extends BaseAdapter {
 
     private final Activity activity;
     private final List<FirebaseUser> lstFirebaseUsers;

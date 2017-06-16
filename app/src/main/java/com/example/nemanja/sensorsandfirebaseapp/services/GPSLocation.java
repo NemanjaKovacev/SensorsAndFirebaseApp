@@ -1,4 +1,4 @@
-package com.example.nemanja.sensorsandfirebaseapp.gps;
+package com.example.nemanja.sensorsandfirebaseapp.services;
 
 import android.app.AlertDialog;
 import android.app.Service;

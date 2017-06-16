@@ -1,4 +1,4 @@
-package com.example.nemanja.sensorsandfirebaseapp.firebase;
+package com.example.nemanja.sensorsandfirebaseapp.activities;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -13,6 +13,8 @@ import android.widget.ListView;
 import android.widget.ProgressBar;
 
 import com.example.nemanja.sensorsandfirebaseapp.R;
+import com.example.nemanja.sensorsandfirebaseapp.adapters.FirebaseListViewAdapter;
+import com.example.nemanja.sensorsandfirebaseapp.models.FirebaseUser;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;

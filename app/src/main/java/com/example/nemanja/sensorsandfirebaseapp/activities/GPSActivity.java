@@ -1,4 +1,4 @@
-package com.example.nemanja.sensorsandfirebaseapp.gps;
+package com.example.nemanja.sensorsandfirebaseapp.activities;
 
 import android.Manifest;
 import android.app.Activity;
@@ -10,6 +10,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 import com.example.nemanja.sensorsandfirebaseapp.R;
+import com.example.nemanja.sensorsandfirebaseapp.services.GPSLocation;
 
 public class GPSActivity extends Activity {
 

@@ -1,4 +1,4 @@
-package com.example.nemanja.sensorsandfirebaseapp.bluetooth;
+package com.example.nemanja.sensorsandfirebaseapp.activities;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;

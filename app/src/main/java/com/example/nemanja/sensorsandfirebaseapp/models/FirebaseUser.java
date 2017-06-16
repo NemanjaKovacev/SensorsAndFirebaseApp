@@ -1,6 +1,6 @@
-package com.example.nemanja.sensorsandfirebaseapp.firebase;
+package com.example.nemanja.sensorsandfirebaseapp.models;
 
-class FirebaseUser {
+public class FirebaseUser {
 
     private String uid, name, email;
 

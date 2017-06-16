@@ -1,10 +1,9 @@
-package com.example.nemanja.sensorsandfirebaseapp.splash;
+package com.example.nemanja.sensorsandfirebaseapp.activities;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.example.nemanja.sensorsandfirebaseapp.MainActivity;
 import com.example.nemanja.sensorsandfirebaseapp.R;
 
 public class SplashScreen extends Activity {

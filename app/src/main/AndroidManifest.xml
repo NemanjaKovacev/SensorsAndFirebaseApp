@@ -18,7 +18,7 @@
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity
-            android:name=".splash.SplashScreen"
+            android:name=".activities.SplashScreen"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,7 +27,7 @@
         </activity>
 
         <activity
-            android:name=".MainActivity"
+            android:name=".activities.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -37,7 +37,7 @@
         </activity>
 
         <activity
-            android:name=".bluetooth.BluetoothActivity"
+            android:name=".activities.BluetoothActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
             <intent-filter>
@@ -47,7 +47,7 @@
         </activity>
 
         <activity
-            android:name=".gps.GPSActivity"
+            android:name=".activities.GPSActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
             <intent-filter>
@@ -57,7 +57,7 @@
         </activity>
 
         <activity
-            android:name=".firebase.FirebaseActivity"
+            android:name=".activities.FirebaseActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme">
             <intent-filter>
